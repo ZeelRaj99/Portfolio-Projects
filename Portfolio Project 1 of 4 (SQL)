@@ -2,6 +2,7 @@ SELECT *
 FROM [Portfolio Project 1].dbo.CovidDeaths
 ORDER BY location, date
 
+
 --SELECT *
 --FROM [Portfolio Project 1].dbo.CovidVaccinations
 --ORDER BY location, date
